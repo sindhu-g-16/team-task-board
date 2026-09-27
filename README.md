@@ -22,4 +22,17 @@ This project is a small task management board where users can view tasks and man
 
 - Display tasks
 - Manage task status
-- Simple and readable user interface  
+- Simple and readable user interface
+## Project Structure
+
+- `index.html` - Main structure of the task board
+- `style.css` - Styling and layout of the task board
+- `script.js` - Task management functionality
+- `README.md` - Project documentation
+- `.gitignore` - Specifies files ignored by Git
+
+## How to Run
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
